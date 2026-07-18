@@ -47,10 +47,7 @@ header .index-content {
 }
 
 .card, .image{
-    width: 100%;
+    width: vw;
 }
 
-.image {
-    filter: invert;
-}
 
