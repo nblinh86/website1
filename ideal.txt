@@ -1,0 +1,3 @@
+Mô tả dự án:
+- Giới thiệu về ngôn ngữ lập trình.
+- Tìm hiểu về javascript.

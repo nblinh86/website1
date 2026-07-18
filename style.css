@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+header h1 {
+    text-align: center;
+}
+ 
+header a{
+    text-decoration: none;
+    padding: 16px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+header a:first-child {
+    margin-left: 20px;
+}
+
+header .index-content {
+    margin-right: 14px;
+}
+
+.default-btn {
+    padding: 16px;
+    border-style: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px chocolate;
+}
