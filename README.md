@@ -1,2 +1,2 @@
 # hocjavascript
-Web programing with Javascript
+Web programing with Javascript, HTML, CSS
