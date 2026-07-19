@@ -1,4 +1,4 @@
 Mô tả dự án:
 - Giới thiệu về ngôn ngữ lập trình.
-- Tìm hiểu về javascript, html và css đang làm bước 2
+- Tìm hiểu về javascript, html và css
 - Tiếp tục học sâu về javascript, html và css
