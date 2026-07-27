@@ -5,7 +5,7 @@ function f()
 
 
 // Đang test thử cái này, test lại lần nữa.
-
+/*
 class MyHeader extends HTMLElement {
   connectedCallback() {
     this.innerHTML = `
@@ -20,3 +20,5 @@ class MyHeader extends HTMLElement {
   }
 }
 customElements.define('my-header', MyHeader);
+
+*/
