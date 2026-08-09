@@ -1,8 +1,20 @@
-Mô tả dự án:
-- Giới thiệu về ngôn ngữ lập trình.
-- Tìm hiểu về javascript, html và css
-- Tiếp tục học sâu về javascript, html và css
+Mô tả bài tập:
+1. Giới thiệu về ngôn ngữ lập trình.
+2. Tìm hiểu về website, application, và những gì mình sẽ làm về.
+    - website
+    - web application
+    - application
+// mới tìm hiểu được tới đây.
+
+1. Extend ra thành các web phụ để học về Ngôn ngữ lập trình phục vụ việc viết ra website hay application, hay theme cho linux distro desktop enviroment.
+    - HTML, CSS, Javascript
+    - Python
+    - C/ C++
+    - lua (for Hyprland linux desktop enviroment)
+
+2. Viết ra các định nghĩa và ví dụ về những gì mình sẽ làm để hiểu hơn về chúng.
+
 
 Đánh giá hiện tại:
-Chưa tìm hiểu về javascript quá nhiều vì đã học theo tutorials nhưng cảm thấy không đọng lại được kiến thức.
-Đang dần chuyển qua đọc tài liệu để hiểu và làm.
+- Chưa tìm hiểu được sâu về javascript, mới biết một chút về javascript
+- Những gì sẽ làm là gì? Kết nối thông tin thì facebook đang làm khá tốt những việc ấy. Có thể tận dụng facebook để làm việc, trao đổi thông tin.
