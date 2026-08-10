@@ -1,6 +1,5 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    text-align: justify;
 }
 
 .navbar ul li {
@@ -70,3 +69,6 @@ header .index-content {
 }
 
 
+p, ul {
+    text-align: justify;
+}

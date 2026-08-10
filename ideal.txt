@@ -1,20 +1,27 @@
 Mô tả bài tập:
 1. Giới thiệu về ngôn ngữ lập trình.
-2. Tìm hiểu về website, application, và những gì mình sẽ làm về.
-    - website
-    - web application
-    - application
-// mới tìm hiểu được tới đây.
-
-1. Extend ra thành các web phụ để học về Ngôn ngữ lập trình phục vụ việc viết ra website hay application, hay theme cho linux distro desktop enviroment.
+2. Học và viết cụ thể hơn về các loại ngữ lập trình đã học theo hiểu biết cá nhân và đính thêm vào website các webpage giới thiệu về chúng.
+Extend ra thành các web phụ để học về Ngôn ngữ lập trình phục vụ việc viết ra website hay application, hay theme cho linux distro desktop enviroment.
     - HTML, CSS, Javascript
     - Python
     - C/ C++
     - lua (for Hyprland linux desktop enviroment)
+3. Tìm hiểu về website, application, và những gì mình sẽ làm về.
+    - website
+    - web application
+    - application
+Viết ra các định nghĩa và ví dụ về những gì mình sẽ làm để hiểu hơn về chúng.
 
-2. Viết ra các định nghĩa và ví dụ về những gì mình sẽ làm để hiểu hơn về chúng.
+// mới tìm hiểu được tới đây.
+
+
+Computer science...
+
 
 
 Đánh giá hiện tại:
 - Chưa tìm hiểu được sâu về javascript, mới biết một chút về javascript
 - Những gì sẽ làm là gì? Kết nối thông tin thì facebook đang làm khá tốt những việc ấy. Có thể tận dụng facebook để làm việc, trao đổi thông tin.
+
+
+- Làm thiết kế web thôi... Content xây dần, ghi chép vào document rồi copy vào.
